@@ -1,10 +1,9 @@
 ```markdown
-# Nome do Seu Jogo
+# SubwaySufers
 
-![Logo do Jogo](link_para_logo.png)
 
 ## Descrição
-Bem-vindo ao [Nome do Seu Jogo]! Este é um emocionante jogo onde você pode ganhar moedas ao completar desafios e missões. Baixe o arquivo .apk e mergulhe em uma experiência única de diversão e recompensas.
+Bem-vindo ao SubwaySufers! Este é um emocionante jogo onde você pode ganhar moedas ao completar desafios e missões. Baixe o arquivo .apk e mergulhe em uma experiência única de diversão e recompensas.
 
 ## Instalação
 1. Faça o download do arquivo .apk 
